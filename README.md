@@ -6,6 +6,8 @@ Hopefully I won't need to use AI for coding now, as I am new to coding.
 ## Contact me
 If you need help, enter my YouTube channel @Revertical-x1q and comment on my latest post about your issue, however I can't help if the help requires A_yDesk.
 
+## Status:
+I am currently becoming a software engineer.
 <!--
 **revertical/revertical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
